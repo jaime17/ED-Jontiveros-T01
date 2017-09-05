@@ -1,0 +1,27 @@
+﻿  stdafx.cpp
+  SortClasss.cpp
+  SecClass.cpp
+  Secc.cpp
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(5): error C2653: 'SecClass': no es un nombre de clase o espacio de nombres
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(6): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(7): warning C4183: 'SecClass': falta el tipo de valor devuelto; se supone que se trata de una función miembro que devuelve 'int'
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(9): error C2653: 'SecClass': no es un nombre de clase o espacio de nombres
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(13): error C2653: 'SecClass': no es un nombre de clase o espacio de nombres
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(22): error C2653: 'SecClass': no es un nombre de clase o espacio de nombres
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(26): error C2653: 'SecClass': no es un nombre de clase o espacio de nombres
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(30): error C2653: 'SecClass': no es un nombre de clase o espacio de nombres
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(34): error C2653: 'SecClass': no es un nombre de clase o espacio de nombres
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(44): error C2653: 'SecClass': no es un nombre de clase o espacio de nombres
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(52): error C2653: 'SecClass': no es un nombre de clase o espacio de nombres
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(58): error C2653: 'SecClass': no es un nombre de clase o espacio de nombres
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(59): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(59): error C2535: 'int Secc::SecClass(void)': función miembro ya definida o declarada
+  c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(5): note: vea la declaración de 'Secc::SecClass'
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(60): warning C4183: 'SecClass': falta el tipo de valor devuelto; se supone que se trata de una función miembro que devuelve 'int'
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secc.h(3): fatal error C1075: el elemento llave '{' de la izquierda estaba sin asignar al final del archivo
+  Run.cpp
+  FectchClass.cpp
+  BinClass.cpp
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\binclass.cpp(62): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+c:\users\jaime ontiverps\source\repos\fetchclass\fetchclass\secclass.cpp(23): warning C4715: 'SecClass::sFetch': no todas las rutas de acceso de control devuelven un valor
